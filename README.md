@@ -1,9 +1,14 @@
 Link to Research Article: https://arxiv.org/pdf/1705.02304.pdf 
+
 Title: Deep Speaker: an End-to-End Neural Speaker Embedding System 
+
 Framework: Keras with Tensorflow as Backend
+
 Dataset used in paper: UIDs, XiaoDu, MTurk (None available online)
 Dataset used in my implementation: LibriSpeech
-Link to Dataset: http://www.openslr.org/12/ (I have not included the dataset since it is >10GB) Trained the model with 251 speakers
+
+Link to Dataset: http://www.openslr.org/12/ (I have not included the dataset since it is >10GB) 
+Trained the model with 251 speakers
 
 Lowest Loss reported for Convolutional Model: 1.23
 Lowest Loss reported for Recurrent Model: 1.34
